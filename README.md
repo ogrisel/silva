@@ -9,3 +9,8 @@ License: BSD
  - scipy
  - scikit-learn
 
+## Potential training sets
+
+ - https://code.google.com/p/leaf-recognition/downloads/detail?name=dataset.zip
+ - http://www.discoverlife.org/
+ - DBpedia / Wikipedia image scraping
